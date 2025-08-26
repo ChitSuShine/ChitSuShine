@@ -6,6 +6,6 @@ Hi there, I am a software engineer proficient in developing Backend APIs with Ja
 - [Certified Kubernetes Application Developer](https://www.credly.com/badges/bc33ca74-613e-4460-b038-20012c55055c/public_url)
 
 ### GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ChitSuShine)](https://github.com/ryo-ma/github-profile-trophy)
+[![🏆](https://github-profile-trophy.vercel.app/?username=ChitSuShine)](https://github.com/ryo-ma/github-profile-trophy)
 
 ⚡ Fun fact: I love to work at startups.
