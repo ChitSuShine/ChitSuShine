@@ -5,7 +5,4 @@ Hi there, I am a software engineer proficient in developing Backend APIs with Ja
 - [AWS Certified Developer – Associate](https://www.credly.com/badges/802752d8-d21c-4ba4-a597-369bc5561d50/linked_in_profile)
 - [Certified Kubernetes Application Developer](https://www.credly.com/badges/bc33ca74-613e-4460-b038-20012c55055c/public_url)
 
-### GitHub Trophies
-[![🏆](https://github-profile-trophy.vercel.app/?username=ChitSuShine)](https://github.com/ryo-ma/github-profile-trophy)
-
 ⚡ Fun fact: I love to work at startups.
